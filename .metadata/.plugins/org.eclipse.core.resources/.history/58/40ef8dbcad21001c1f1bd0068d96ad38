@@ -1,0 +1,18 @@
+/*package jp.te4a.spring.boot.myapp5;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+import jp.te4a.spring.boot.myapp5.HelloController;
+
+public class HelloCotrollerTest {
+	@Test
+	 void index_test() {
+		HelloController helloController = new HelloController();
+		String expected = "this is Spring Boot sample.";
+		String actual = helloController.index();
+		
+		assertEquals(expected,actual);
+	}
+}*/
